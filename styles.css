@@ -1,0 +1,17 @@
+h1, h2, h3, p {
+	font-family: Arial;
+}
+
+h1 {
+	color:#ff0000;
+}
+
+h2, h3
+{
+	color:#00F;
+}
+
+p
+{
+	font-style:italic;
+}
