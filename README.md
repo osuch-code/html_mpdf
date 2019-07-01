@@ -11,3 +11,7 @@ After installation change the path in the sample files to point to the installat
 Have added a Polish section of text to ensure all works as expected.
 
 Apart from that - good to go.
+
+## Examples
+
+Add example links for each of the files - to do
