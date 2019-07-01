@@ -33,6 +33,23 @@ $html = '
 <p>Translated from the Polish by Jerzy Peterkiewicz - CYPRIAN NORWID Poems – Letters – Drawings</p>
 <p><em>(In collaboration with Christine Brooke-Rose and Burns Singer).</em></p>
 <p>Used by permission from Carcanet Press</p>
+<p></p>
+<h2>DAJ MI WSTĄŻKĘ BŁĘKITNĄ</h2>
+<p></p>
+<p>Daj mi wstążkę błękitną — oddam ci ją</p>
+<p>Bez opóźnienia...</p>
+<p>Albo - daj mi cień twój z giętką twą szyją:</p>
+<p>— Nie! nie chcę cienia.</p>
+<p></p>
+<p>Cień zmieni się, gdy ku mnie skiniesz ręką,</p>
+<p>Bo on nie kłamie!</p>
+<p>Nic od ciebie nie chcę, śliczna panienko,</p>
+<p>Usuwam ramię...</p>
+<p></p>
+<p>Bywałem ja od Boga nagrodzonym,</p>
+<p>Rzeczą mniej wielką:</p>
+<p>Spadłym listkiem, do szyby przyklejonym,</p>
+<p>Deszczu kropelką.</p>
 ';
 
 //==============================================================
