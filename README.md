@@ -14,7 +14,7 @@ Apart from that - good to go.
 
 ## Examples
 
-https://osuch.com/formtools/exp/mpdfexp/x/basic_test.php
+https://osuch.com/formtools/exp/mpdfexp/x/basic.php
 
 https://osuch.com/formtools/exp/mpdfexp/x/basic_css.php
 
