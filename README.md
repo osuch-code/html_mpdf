@@ -14,4 +14,8 @@ Apart from that - good to go.
 
 ## Examples
 
-TO DO - Add example links for each of the files
+https://osuch.com/formtools/exp/mpdfexp/x/basic_test.php
+
+https://osuch.com/formtools/exp/mpdfexp/x/basic_css.php
+
+https://osuch.com/formtools/exp/mpdfexp/x/config.php
